@@ -1,0 +1,1 @@
+AgroPro is a mobile application build in java to provide usefull resources such as Agriculture Blogs, Video tutorials, Fertilizer Calculator and weather updates to farmers and agriculture students. So that they could learn it and implement it to increase their per acre yield.
